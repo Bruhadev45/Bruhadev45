@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bruhadev12203561
+- 👋 Hi, I’m @Bruhadev
 - 👀 I’m curently Btech student at Lovely Professional University
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with other devlopers
