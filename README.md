@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently Studying **B-tech at Lovely Professional University**
 
-- 🌱 I’m currently learning **Full stack with MERN**
+- 🌱 I’m currently learning **Data science**
 
 - 💬 Ask me about **React,Python**
 
