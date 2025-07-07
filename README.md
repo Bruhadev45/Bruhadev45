@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Data science**
 
-- 💬 Ask me about **React,Python**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **devbruha@gmail.com**
 
