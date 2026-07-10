@@ -137,8 +137,7 @@ RAG over a maintained corpus of **47,867 Indian legal documents** (Companies Act
 ### GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bruhadev45&show_icons=true&hide_border=true&bg_color=0E0D0B&title_color=FF6B35&icon_color=FF6B35&text_color=EDE6DA" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bruhadev45&hide_border=true&background=0E0D0B&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=bruhadev45&hide_border=true&background=0E0D0B&stroke=FF6B35&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&sideNums=EDE6DA&sideLabels=9A927E&dates=9A927E" height="180"/>
 </div>
 
 ---
