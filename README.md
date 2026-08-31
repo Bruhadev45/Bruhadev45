@@ -86,10 +86,10 @@ RAG over a maintained corpus of **47,867 Indian legal documents** (Companies Act
 </td>
 <td width="50%">
 
-**[Lung Cancer Classification](https://github.com/Bruhadev45/Lung-Cancer-Classification-Using-Multimodal-Image-Analysis)**
-> Multimodal medical-image classification with CNNs and transfer learning — 95%+ F1.
+**[ToolLedger](https://github.com/Bruhadev45/Tool_Ledger)**
+> Multi-tenant SaaS for credential management and subscription analytics. Encrypted vault, tenant isolation at the data layer, NestJS + Prisma + PostgreSQL.
 
-`Computer Vision` `Deep Learning` `HealthTech`
+`SaaS` `Multi-Tenant` `NestJS`
 
 </td>
 </tr>
