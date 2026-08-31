@@ -32,7 +32,7 @@ RAG over a maintained corpus of **47,867 Indian legal documents** (Companies Act
 
 - Hybrid retrieval reaches **Recall@5 0.84 / MRR 0.95** on a 120-query human-verified benchmark (Fleiss' κ = 0.81)
 - **80% of answers judged citation-faithful**, 2.5% severe-hallucination rate
-- Negative result with practical value: a generic MS MARCO cross-encoder reranker *lowers* nDCG@5 by 8.7–16.3 points on legal text — retrieval quality in legal RAG is corpus-bound, not retriever-bound
+- Negative result with practical value: a generic MS MARCO cross-encoder reranker *lowers* nDCG@5 by **8.7 points on hybrid (p = 0.0002) and 16.3 on dense retrieval (p = 0.0001)** — paired permutation tests over the full benchmark, reproducible byte-for-byte in [rag-eval-lab](https://github.com/Bruhadev45/rag-eval-lab). Retrieval quality in legal RAG is corpus-bound, not retriever-bound
 
 ---
 
@@ -68,20 +68,20 @@ RAG over a maintained corpus of **47,867 Indian legal documents** (Companies Act
 </td>
 <td width="50%">
 
-**[FinSight-X-AI](https://github.com/Bruhadev45/FinSight-X-AI)** · [live](https://fin-sight-x-ai.vercel.app)
-> AI financial-insights assistant — extracts metrics, sentiment, and risk from filings and news with RAG grounding.
+**[rag-eval-lab](https://github.com/Bruhadev45/rag-eval-lab)** · benchmark
+> Reproducible retrieval benchmark behind the reranker finding: paired statistics, seeded bootstrap CIs, and CI that fails if `make reproduce` drifts a single byte.
 
-`GPT-4` `RAG` `Python`
+`Evaluation` `Statistics` `Reproducible Research`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[Multi-Agent Supply Chain Optimizer](https://github.com/Bruhadev45/AI-Multi-Agent-Supply-Chain-Optimizer)** · [demo](https://huggingface.co/spaces/Bruha01/AI-supply-chain-optimizer)
-> Specialized agents collaborating in real time on routing, inventory, and demand forecasting.
+**[ragfuse](https://github.com/Bruhadev45/ragfuse)** · library
+> Weighted Reciprocal Rank Fusion for hybrid retrieval — real per-retriever weights, provenance on every hit, zero dependencies. 100% test coverage, `mypy --strict`.
 
-`Multi-Agent` `CrewAI` `Logistics`
+`Python` `Information Retrieval` `RRF`
 
 </td>
 <td width="50%">
